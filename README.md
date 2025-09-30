@@ -4,6 +4,9 @@ Interactive Tableau dashboard analyzing British Airways customer reviews. Includ
 ### Click here to view on Tableau Public ! 
 [British Airways Reviews](https://public.tableau.com/app/profile/michellefangg/viz/BritishAirwaysReview_17591932335800/Dashboard1)
 
+[Download the Tableau Workbook (.twbx)](British%20Airways%20Reviews.twbx?raw=1)
+
+
 ## Features
 - **Metric Picker**: Switch dynamically between different review metrics, including Overall Rating, Cabin Staff Service, Entertainment, Food & Beverages, Ground Service, Seat Comfort, and Value for Money.  
 - **Interactive Filters**: Narrow down results using multiple filters:  
