@@ -6,6 +6,8 @@ Interactive Tableau dashboard analyzing British Airways customer reviews. Includ
 - Filters for Date, Seat Type, Traveler Type, Aircraft, and Continent
 - Map by country, monthly trends, and aircraft breakdown
 - Cross-filtering between visuals
+  
+<img width="1193" height="698" alt="image" src="https://github.com/user-attachments/assets/615ab0c9-544b-4577-b063-d2cfee42f2a9" />
 
 ## Files
 - `data/` → datasets (`ba_reviews.csv`, `countries.csv`)
