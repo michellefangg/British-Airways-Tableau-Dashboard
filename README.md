@@ -1,8 +1,7 @@
 # ✈️ British-Airways-Tableau-Dashboard
 Interactive Tableau dashboard analyzing British Airways customer reviews. Includes dynamic metric picker, map by country, monthly trends, aircraft breakdown, and filters for seat type, traveler type, aircraft, and continent.
 
-### Click here to view on Tableau Public ! 
-[British Airways Reviews](https://public.tableau.com/app/profile/michellefangg/viz/BritishAirwaysReview_17591932335800/Dashboard1)
+[View Online on Tableau Public (No download)](https://public.tableau.com/app/profile/michellefangg/viz/BritishAirwaysReview_17591932335800/Dashboard1)
 
 [Download the Tableau Workbook (.twbx)](British%20Airways%20Reviews.twbx?raw=1)
 
