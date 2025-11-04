@@ -3,7 +3,7 @@ Interactive Tableau dashboard analyzing British Airways customer reviews. Includ
 
 **View Online (No download)**: [public.tableau.BritishAirwaysReview](https://public.tableau.com/app/profile/michellefangg/viz/BritishAirwaysReview_17591932335800/Dashboard1)
 
-**Download the Dashboard**: [BritishAirwaysReviews.twbx)](https://github.com/michellefangg/British-Airways-Tableau-Dashboard/raw/main/British%20Airways%20Reviews.twbx)
+**Download the Dashboard**: [BritishAirwaysReviews.twbx](https://github.com/michellefangg/British-Airways-Tableau-Dashboard/raw/main/British%20Airways%20Reviews.twbx)
 
 
 
