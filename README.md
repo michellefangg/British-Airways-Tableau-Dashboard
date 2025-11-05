@@ -28,4 +28,4 @@ Each review record includes aircraft type, seat class, traveler type, origin cou
 - Fully interactive dashboard with Tableau actions + filters  
 - Custom color palette (green + pink), formatted tooltips, 1-decimal precision  
 
-![Preview](https://github.com/user-attachments/assets/615ab0c9-544b-4577-b063-d2cfee42f2a9)
+![Preview](images/British-Airways-Dashboard.png)
